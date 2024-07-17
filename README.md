@@ -1,0 +1,2 @@
+# FlaskPractice
+trying flask framework
